@@ -1,4 +1,4 @@
-# Large Fishing Model 1.0
+# Warcraft Fishing Model 1.1
 
 ## A Fishing Bot for World of Warcraft Classic.
 
